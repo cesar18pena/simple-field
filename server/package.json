@@ -1,0 +1,18 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cesar18pena/simple-field.git",
+  "author": "Cesar Pena <cesar18pena@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
